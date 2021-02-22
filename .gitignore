@@ -1,0 +1,5 @@
+.env
+.projeto_django/
+*.sqlite3
+*pyc
+__pycache__
