@@ -1,0 +1,15 @@
+Olá! Tudo bem?
+
+Obrigada por se inscrever no Eventex!
+Esses são os dados que foram fornecidos para a inscrição:
+
+Nome: {{ name }}
+CPF:12345678901 {{ cpf }}
+email:juservi@gmail.com {{ email }}
+Telefone:19992564629 {{ phone }}
+
+Sua inscrição será confirmada em dois dias úteis.
+
+Atenciosamente,
+
+Morena
